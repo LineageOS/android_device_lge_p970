@@ -33,3 +33,6 @@ dalvik.vm.heapsize=32m
 # Dummy LGE lightsensor
 ro.hardware.respect_als=true
 
+# NITZ in local time
+ro.telephony.nitz=local
+

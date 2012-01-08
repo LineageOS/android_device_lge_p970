@@ -32,4 +32,5 @@ dalvik.vm.heapsize=32m
 
 # Dummy LGE lightsensor
 ro.hardware.respect_als=true
+alsa.mixer.capture.master=Analog
 
